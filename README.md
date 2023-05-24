@@ -12,8 +12,8 @@ I love to draw when I'm not coding, and I love to learn about new exciting thing
 </div>
 <div align="center">
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pxrrybella&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=c30052&icon_color=c30052&text_color=f495bf&bg_color=0,fbd0e2,fbd0e2" alt="pxrrybella's Github Stats">
-
+  <a href="https://github.com/pxrrybella/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pxrrybella&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="pxrrybella's github stats" /></a> 
+  
+  <a href="https://github.com/pxrrybella/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pxrrybella&layout=compact&theme=radical&hide_border=false" /></a>
 
 </div>
