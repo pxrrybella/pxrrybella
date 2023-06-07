@@ -1,6 +1,6 @@
 <div align="center">
 <h2>Nice to meet you 🌸</h2>
-<p><i>My name is Isabella, I'm a Full Stack Java Developer with knowledge on JAVA, Javascript, Springboot, MySQL, HTML, CSS, SASS and Bootstrap. Some. Python too.
+<p><i>My name is Isabella, I'm a Full Stack Java Developer with knowledge on JAVA, Javascript, Springboot, MySQL, HTML, CSS, SASS and Bootstrap. Some Python too.
 
 But I'm mainly focused on developing web apps with React.js, I've learned React.js, Redux and I'm currently studying Next.js.
 
